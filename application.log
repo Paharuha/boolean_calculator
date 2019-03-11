@@ -1,0 +1,252 @@
+2019-03-09 13:28:57 INFO  [main]: Програму запущено
+2019-03-09 13:29:32 INFO  [main]: Програму запущено
+2019-03-09 13:29:34 INFO  [main]: Програму заверщено
+2019-03-09 13:57:49 INFO  [main]: Програму запущено
+2019-03-09 13:57:49 INFO  [JavaFX Application Thread]: Ініціалізація компонент на формі
+2019-03-09 13:57:49 INFO  [JavaFX Application Thread]: Встановлення можливих значень для першого операнда
+2019-03-09 13:57:49 INFO  [JavaFX Application Thread]: Встановлення можливих значень для другого операнда
+2019-03-09 13:57:49 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для першого операнда
+2019-03-09 13:57:49 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для другого операнда
+2019-03-09 13:57:49 INFO  [JavaFX Application Thread]: Виведення форми на екран
+2019-03-09 13:57:57 INFO  [main]: Програму заверщено
+2019-03-09 14:04:09 INFO  [main]: Програму запущено
+2019-03-09 14:04:10 INFO  [JavaFX Application Thread]: Ініціалізація компонент на формі
+2019-03-09 14:04:10 INFO  [JavaFX Application Thread]: Встановлення можливих значень для першого операнда
+2019-03-09 14:04:10 INFO  [JavaFX Application Thread]: Встановлення можливих значень для другого операнда
+2019-03-09 14:04:10 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для першого операнда
+2019-03-09 14:04:10 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для другого операнда
+2019-03-09 14:04:10 INFO  [JavaFX Application Thread]: Встановлення дії на натискання andOperation
+2019-03-09 14:04:10 INFO  [JavaFX Application Thread]: Виведення форми на екран
+2019-03-09 14:04:16 INFO  [main]: Програму заверщено
+2019-03-09 14:05:52 INFO  [main]: Програму запущено
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Ініціалізація компонент на формі
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення можливих значень для першого операнда
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення можливих значень для другого операнда
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для першого операнда
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для другого операнда
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання andOperation
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання orOperation
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notFirstOperator
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notSecondOperator
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання contradictionOperator
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання norOperation
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання converseNonimplicationOperation
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання materialNoimplicationOperation
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання xorOperation
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notAndOpration
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання xnorOperation
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання materionalConditionalOperation
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання converseImplicationOperation
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання tautologyOperation
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Встановлення дії на натискання eqOperation
+2019-03-09 14:05:52 INFO  [JavaFX Application Thread]: Виведення форми на екран
+2019-03-09 14:06:03 INFO  [main]: Програму заверщено
+2019-03-09 14:06:47 INFO  [main]: Програму запущено
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Ініціалізація компонент на формі
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення можливих значень для першого операнда
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення можливих значень для другого операнда
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для першого операнда
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для другого операнда
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання andOperation
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання orOperation
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notFirstOperator
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notSecondOperator
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання contradictionOperator
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання norOperation
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання converseNonimplicationOperation
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання materialNoimplicationOperation
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання xorOperation
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notAndOpration
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання xnorOperation
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання materionalConditionalOperation
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання converseImplicationOperation
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання tautologyOperation
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Встановлення дії на натискання eqOperation
+2019-03-09 14:06:48 INFO  [JavaFX Application Thread]: Виведення форми на екран
+2019-03-09 14:06:54 INFO  [main]: Програму заверщено
+2019-03-09 14:28:13 INFO  [main]: Програму запущено
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Ініціалізація компонент на формі
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення можливих значень для першого операнда
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення можливих значень для другого операнда
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для першого операнда
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для другого операнда
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання andOperation
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання orOperation
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notFirstOperator
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notSecondOperator
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання contradictionOperator
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання norOperation
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання converseNonimplicationOperation
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання materialNoimplicationOperation
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання xorOperation
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notAndOpration
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання xnorOperation
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання materionalConditionalOperation
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання converseImplicationOperation
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання tautologyOperation
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Встановлення дії на натискання eqOperation
+2019-03-09 14:28:13 INFO  [JavaFX Application Thread]: Виведення форми на екран
+2019-03-09 14:28:18 INFO  [JavaFX Application Thread]: Натиснуто кнопку andOperation
+2019-03-09 14:28:18 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням першого операнда для виконання andOperation
+2019-03-09 14:28:18 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-09 14:28:18 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням другого операнда для виконання andOperation
+2019-03-09 14:28:18 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-09 14:28:18 INFO  [JavaFX Application Thread]: Створення OperatorService для виконання дії and
+2019-03-09 14:28:18 INFO  [JavaFX Application Thread]: Формування рядка результату виконання дії and
+2019-03-09 14:28:18 INFO  [JavaFX Application Thread]: Результат виконання дії and: TRUE & TRUE = TRUE
+2019-03-09 14:28:18 INFO  [JavaFX Application Thread]: Виведення на формі результатів виконання дії and
+2019-03-09 14:28:22 INFO  [main]: Програму заверщено
+2019-03-09 14:59:37 INFO  [main]: Програму запущено
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Ініціалізація компонент на формі
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення можливих значень для першого операнда
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення можливих значень для другого операнда
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для першого операнда
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для другого операнда
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання andOperation
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання orOperation
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notFirstOperator
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notSecondOperator
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання contradictionOperator
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання norOperation
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання converseNonimplicationOperation
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання materialNoimplicationOperation
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання xorOperation
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notAndOpration
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання xnorOperation
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання materionalConditionalOperation
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання converseImplicationOperation
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання tautologyOperation
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Встановлення дії на натискання equinity
+2019-03-09 14:59:37 INFO  [JavaFX Application Thread]: Виведення форми на екран
+2019-03-09 14:59:42 INFO  [JavaFX Application Thread]: Натиснуто кнопку andOperation
+2019-03-09 14:59:42 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням першого операнда для виконання andOperation
+2019-03-09 14:59:42 INFO  [JavaFX Application Thread]: Створено операнд зі значенням null
+2019-03-09 14:59:42 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням другого операнда для виконання andOperation
+2019-03-09 14:59:42 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-09 14:59:42 INFO  [JavaFX Application Thread]: Створення OperatorService для виконання дії and
+2019-03-09 14:59:42 INFO  [JavaFX Application Thread]: Створено об'єкт OperatorService зі значеннями операндів null i true
+2019-03-09 14:59:42 INFO  [JavaFX Application Thread]: Формування рядка результату виконання дії and
+2019-03-09 14:59:42 INFO  [JavaFX Application Thread]: Виконання дії andOperation
+2019-03-09 14:59:42 WARN  [JavaFX Application Thread]: Значення одного з операндів null, результатом операції буде null
+2019-03-09 14:59:42 INFO  [JavaFX Application Thread]: Результат виконання дії and: NULL & TRUE = NULL
+2019-03-09 14:59:42 INFO  [JavaFX Application Thread]: Виведення на формі результатів виконання дії and
+2019-03-09 14:59:47 INFO  [main]: Програму заверщено
+2019-03-09 15:04:28 INFO  [main]: Програму запущено
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Ініціалізація компонент на формі
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення можливих значень для першого операнда
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення можливих значень для другого операнда
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для першого операнда
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для другого операнда
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання andOperation
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання orOperation
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notFirstOperator
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notSecondOperator
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання contradictionOperator
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання norOperation
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання converseNonimplicationOperation
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання materialNoimplicationOperation
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання xorOperation
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notAndOpration
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання xnorOperation
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання materionalConditionalOperation
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання converseImplicationOperation
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання tautologyOperation
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Встановлення дії на натискання equinity
+2019-03-09 15:04:28 INFO  [JavaFX Application Thread]: Виведення форми на екран
+2019-03-09 15:04:30 INFO  [JavaFX Application Thread]: Натиснуто кнопку andOperation
+2019-03-09 15:04:30 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням першого операнда для виконання andOperation
+2019-03-09 15:04:30 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-09 15:04:30 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням другого операнда для виконання andOperation
+2019-03-09 15:04:30 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-09 15:04:30 INFO  [JavaFX Application Thread]: Створення OperatorService для виконання дії and
+2019-03-09 15:04:30 INFO  [JavaFX Application Thread]: Створено об'єкт OperatorService зі значеннями операндів true i true
+2019-03-09 15:04:30 INFO  [JavaFX Application Thread]: Формування рядка результату виконання дії and
+2019-03-09 15:04:30 INFO  [JavaFX Application Thread]: Виконання дії andOperation
+2019-03-09 15:04:30 INFO  [JavaFX Application Thread]: Результат виконання операції andOperation: true
+2019-03-09 15:04:30 INFO  [JavaFX Application Thread]: Результат виконання дії and: TRUE & TRUE = TRUE
+2019-03-09 15:04:30 INFO  [JavaFX Application Thread]: Виведення на формі результатів виконання дії and
+2019-03-09 15:04:32 INFO  [JavaFX Application Thread]: Натиснуто кнопку notFirstOperator
+2019-03-09 15:04:32 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням першого операнда для виконання notFirstOperator
+2019-03-09 15:04:32 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-09 15:04:32 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням другого операнда для виконання notFirstOperator
+2019-03-09 15:04:32 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-09 15:04:32 INFO  [JavaFX Application Thread]: Створення OperatorService для виконання дії notFirstOperator
+2019-03-09 15:04:32 INFO  [JavaFX Application Thread]: Створено об'єкт OperatorService зі значеннями операндів true i true
+2019-03-09 15:04:32 INFO  [JavaFX Application Thread]: Формування рядка результату виконання дії notFirstOperator
+2019-03-09 15:04:32 INFO  [JavaFX Application Thread]: Виконання дії notFirstOperator
+2019-03-09 15:04:32 INFO  [JavaFX Application Thread]: Результат виконання операції notFirstOperator: false
+2019-03-09 15:04:32 INFO  [JavaFX Application Thread]: Результат виконання дії and: TRUE !first TRUE = FALSE
+2019-03-09 15:04:32 INFO  [JavaFX Application Thread]: Виведення на формі результатів виконання дії notFirstOperator
+2019-03-09 15:04:48 INFO  [JavaFX Application Thread]: Натиснуто кнопку notFirstOperator
+2019-03-09 15:04:48 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням першого операнда для виконання notFirstOperator
+2019-03-09 15:04:48 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-09 15:04:48 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням другого операнда для виконання notFirstOperator
+2019-03-09 15:04:48 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-09 15:04:48 INFO  [JavaFX Application Thread]: Створення OperatorService для виконання дії notFirstOperator
+2019-03-09 15:04:48 INFO  [JavaFX Application Thread]: Створено об'єкт OperatorService зі значеннями операндів true i true
+2019-03-09 15:04:48 INFO  [JavaFX Application Thread]: Формування рядка результату виконання дії notFirstOperator
+2019-03-09 15:04:48 INFO  [JavaFX Application Thread]: Виконання дії notFirstOperator
+2019-03-09 15:04:48 INFO  [JavaFX Application Thread]: Результат виконання операції notFirstOperator: false
+2019-03-09 15:04:48 INFO  [JavaFX Application Thread]: Результат виконання дії and: TRUE !first TRUE = FALSE
+2019-03-09 15:04:48 INFO  [JavaFX Application Thread]: Виведення на формі результатів виконання дії notFirstOperator
+2019-03-09 15:04:53 INFO  [main]: Програму заверщено
+2019-03-10 21:18:30 INFO  [main]: Програму запущено
+2019-03-10 21:18:30 INFO  [JavaFX Application Thread]: Завантаження файлу форми
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Ініціалізація компонент на формі
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення можливих значень для першого операнда
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення можливих значень для другого операнда
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для першого операнда
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Ініцалізація початкових значень для другого операнда
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання andOperation
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання orOperation
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notFirstOperator
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notSecondOperator
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання contradictionOperator
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання norOperation
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання converseNonimplicationOperation
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання materialNoimplicationOperation
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання xorOperation
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання notAndOpration
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання xnorOperation
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання materionalConditionalOperation
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання converseImplicationOperation
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання tautologyOperation
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Встановлення дії на натискання equinity
+2019-03-10 21:18:31 INFO  [JavaFX Application Thread]: Виведення форми на екран
+2019-03-10 21:18:34 INFO  [JavaFX Application Thread]: Натиснуто кнопку andOperation
+2019-03-10 21:18:34 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням першого операнда для виконання andOperation
+2019-03-10 21:18:34 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-10 21:18:34 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням другого операнда для виконання andOperation
+2019-03-10 21:18:34 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-10 21:18:34 INFO  [JavaFX Application Thread]: Створення OperatorService для виконання дії and
+2019-03-10 21:18:34 INFO  [JavaFX Application Thread]: Створено об'єкт OperatorService зі значеннями операндів true i true
+2019-03-10 21:18:34 INFO  [JavaFX Application Thread]: Формування рядка результату виконання дії and
+2019-03-10 21:18:34 INFO  [JavaFX Application Thread]: Виконання дії andOperation
+2019-03-10 21:18:34 INFO  [JavaFX Application Thread]: Результат виконання операції andOperation: true
+2019-03-10 21:18:34 INFO  [JavaFX Application Thread]: Результат виконання дії and: TRUE & TRUE = TRUE
+2019-03-10 21:18:34 INFO  [JavaFX Application Thread]: Виведення на формі результатів виконання дії and
+2019-03-10 21:18:35 INFO  [JavaFX Application Thread]: Натиснуто кнопку contradictionOperator
+2019-03-10 21:18:35 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням першого операнда для виконання contradictionOperation
+2019-03-10 21:18:35 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-10 21:18:35 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням другого операнда для виконання contradictionOperation
+2019-03-10 21:18:35 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-10 21:18:35 INFO  [JavaFX Application Thread]: Створення OperatorService для виконання дії contradictionOperation
+2019-03-10 21:18:35 INFO  [JavaFX Application Thread]: Створено об'єкт OperatorService зі значеннями операндів true i true
+2019-03-10 21:18:35 INFO  [JavaFX Application Thread]: Формування рядка результату виконання дії contradictionOperation
+2019-03-10 21:18:35 INFO  [JavaFX Application Thread]: Виконання дії contradictionOperation
+2019-03-10 21:18:35 INFO  [JavaFX Application Thread]: Результат виконання операції contradictionOperation: false
+2019-03-10 21:18:35 INFO  [JavaFX Application Thread]: Результат виконання дії contradictionOperation: TRUE F TRUE = FALSE
+2019-03-10 21:18:35 INFO  [JavaFX Application Thread]: Виведення на формі результатів виконання дії contradictionOperation
+2019-03-10 21:18:36 INFO  [JavaFX Application Thread]: Натиснуто кнопку notAndOpration
+2019-03-10 21:18:36 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням першого операнда для виконання notAndOpration
+2019-03-10 21:18:36 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-10 21:18:36 INFO  [JavaFX Application Thread]: Ініціалізація новим значенням другого операнда для виконання notAndOpration
+2019-03-10 21:18:36 INFO  [JavaFX Application Thread]: Створено операнд зі значенням true
+2019-03-10 21:18:36 INFO  [JavaFX Application Thread]: Створення OperatorService для виконання дії notAndOpration
+2019-03-10 21:18:36 INFO  [JavaFX Application Thread]: Створено об'єкт OperatorService зі значеннями операндів true i true
+2019-03-10 21:18:36 INFO  [JavaFX Application Thread]: Формування рядка результату виконання дії notAndOpration
+2019-03-10 21:18:36 INFO  [JavaFX Application Thread]: Виконання дії nandOperation
+2019-03-10 21:18:36 INFO  [JavaFX Application Thread]: Результат виконання операції nandOperation: false
+2019-03-10 21:18:36 INFO  [JavaFX Application Thread]: Результат виконання дії notAndOpration: TRUE NAND TRUE = FALSE
+2019-03-10 21:18:36 INFO  [JavaFX Application Thread]: Виведення на формі результатів виконання дії notAndOpration
+2019-03-10 21:18:38 INFO  [main]: Програму заверщено
